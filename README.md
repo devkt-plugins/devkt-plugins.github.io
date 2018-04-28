@@ -27,9 +27,9 @@ Language            |         Built from             |       Latest version
 :-------------------|:------------------------------:|:--------------------------:
 CovScript           |[covscript-intellij][cov-o]    |[![Release][cov-i]][cov-d]
 Clojure             |[la-clojure][clj0-o]           |[![Release][clj0-i]][clj0-d]
-Clojure (deprecated)|[Clojure-Kit][clj1-o]          |[![Release][clj1-i]][clj1-d]
 Julia               |[julia-intellij][jl-o]         |[![Release][jl-i]][jl-d]
 JSON                |[intellij-community][json-o]   |[![Release][json-i]][json-d]
+Properties          |[intellij-community][ppt-o]    |[![Release][ppt-i]][ppt-d]
 Lua                 |[EmmyLua][emmy-o]              |[![Release][emmy-i]][emmy-d]
 Solidity            |[IntelliJ Solidity][sol-o]     |[![Release][sol-i]][sol-d]
 
@@ -54,6 +54,9 @@ Solidity            |[IntelliJ Solidity][sol-o]     |[![Release][sol-i]][s
   [emmy-o]: https://github.com/EmmyLua/IntelliJ-EmmyLua
   [emmy-i]: https://img.shields.io/github/release/devkt-plugins/emmylua-devkt/all.svg
   [emmy-d]: https://github.com/devkt-plugins/emmylua-devkt
+  [ppt-o]: https://github.com/JetBrains/intellij-community
+  [ppt-i]: https://img.shields.io/github/release/devkt-plugins/properties-devkt/all.svg
+  [ppt-d]: https://github.com/devkt-plugins/properties-devkt
 
 # Plugin development guide
 
