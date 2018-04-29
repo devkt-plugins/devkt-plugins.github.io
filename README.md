@@ -36,7 +36,8 @@ JSON                |[intellij-community][json]
 Properties          |[intellij-community][ppt]
 Lua                 |[EmmyLua][emmy]
 Solidity            |[IntelliJ Solidity][sol]
-Toml                |[intellij-rust][toml]
+Toml                |[intellij-toml][toml]
+Rust                |[intellij-rust][rust]
 YAML                |[intellij-community][yml]
 
   [sol]: https://github.com/intellij-solidity/intellij-solidity
@@ -49,6 +50,7 @@ YAML                |[intellij-community][yml]
   [ppt]: https://github.com/JetBrains/intellij-community/tree/master/plugins/properties
   [toml]: https://github.com/intellij-rust/intellij-rust/tree/master/intellij-toml
   [yml]: https://github.com/JetBrains/intellij-community/tree/master/plugins/yaml
+  [rust]: https://github.com/intellij-rust/intellij-rust
 
 # Plugin development guide
 
